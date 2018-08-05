@@ -16,6 +16,7 @@ body {
 #content {
     padding: 30px 50px;
 }
+
 #content ul {
     list-style-type: none;
     margin: 0;
@@ -29,22 +30,22 @@ body {
     margin-bottom: 8px;
 }
 
-#content ui li a {
+#content ul li a {
     font-size: 1.5em;
     text-decoration: none;
     font-weight: bold;
     color: #00A8FF;
 }
 
-#content ui li ul {
+#content ul li ul {
     margin-top: 20px;
 }
 
-#content ui li ul li {
+#content ul li ul li {
     padding: 0;
 }
 
-#content ui li ul li a {
+#content ul li ul li a {
     font-size: 1em;
     font-weight: 300;
 }
